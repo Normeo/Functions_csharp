@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.AssemblyInfo.cs
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lets  play a game\bin\Debug\net6.0\lets  play a game.exe
+C:\Users\User\Desktop\lets  play a game\bin\Debug\net6.0\lets  play a game.deps.json
+C:\Users\User\Desktop\lets  play a game\bin\Debug\net6.0\lets  play a game.runtimeconfig.json
+C:\Users\User\Desktop\lets  play a game\bin\Debug\net6.0\lets  play a game.dll
+C:\Users\User\Desktop\lets  play a game\bin\Debug\net6.0\lets  play a game.pdb
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.dll
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\refint\lets  play a game.dll
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.pdb
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\lets  play a game.genruntimeconfig.cache
+C:\Users\User\Desktop\lets  play a game\obj\Debug\net6.0\ref\lets  play a game.dll
